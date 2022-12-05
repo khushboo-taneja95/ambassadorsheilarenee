@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.letsdowebsite.ambassadorsheilarenee.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.letsdowebsite.ambassadorsheilarenee.ui.videos.VideosFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="com.letsdowebsite.ambassadorsheilarenee.ui.slideshow.SlideshowFragment"
+        android:label="Services"
+        tools:layout="@layout/fragment_slideshow" />
+
+    <fragment
+        android:id="@+id/nav_tools"
+        android:name="com.letsdowebsite.ambassadorsheilarenee.ui.tools.ToolsFragment"
+        android:label="Event"
+        tools:layout="@layout/fragment_tools" />
+
+    <fragment
+        android:id="@+id/nav_share"
+        android:name="com.letsdowebsite.ambassadorsheilarenee.ui.share.ShareFragment"
+        android:label="Appointment"
+        tools:layout="@layout/fragment_share" />
+
+    <fragment
+        android:id="@+id/nav_send"
+        android:name="com.letsdowebsite.ambassadorsheilarenee.ui.send.SendFragment"
+        android:label="Contact Us"
+        tools:layout="@layout/fragment_send" />
+</navigation>

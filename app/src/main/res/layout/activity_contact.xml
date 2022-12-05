@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:background="@drawable/backcontactimage"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:background="#fff"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+
+            android:layout_height="?attr/actionBarSize">
+
+
+            <ImageView
+                android:id="@+id/back"
+                android:layout_width="wrap_content"
+                android:layout_height="20dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="13dp"
+                android:src="@drawable/backblack" />
+
+            <TextView
+                android:id="@+id/tvTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Contact Us"
+                android:textColor="#000"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:fontFamily="sans-serif-condensed-medium"
+                android:layout_gravity="center"/>
+
+
+        </androidx.appcompat.widget.Toolbar>
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+
+
+    <ImageView
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="162dp"
+        android:layout_marginTop="60dp"
+        android:paddingTop="8dp"
+        android:background="@drawable/side_nav_bar"
+        android:alpha=".5"
+        android:paddingRight="8dp"
+        android:paddingLeft="60dp"
+       />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:text="Ambassador Sheila Renee McGruder"
+        android:gravity="center"
+        android:textColor="#ff4612"
+        android:textSize="42dp"
+        android:layout_marginTop="75dp"
+        android:textStyle="bold"
+        android:fontFamily="sans-serif-condensed-medium"
+        android:layout_gravity="center"/>
+
+
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/header"
+        android:backgroundTint="@color/overlay"
+        android:padding="16dp"
+    />
+
+
+    <Button
+        android:id="@+id/btn"
+        android:layout_width="35dp"
+        android:layout_height="40dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignTop="@+id/txt1"
+        android:layout_marginStart="10dp"
+        android:background="@drawable/loca" />
+
+    <TextView
+        android:id="@+id/txt1"
+        android:layout_width="290dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_gravity="center"
+        android:layout_marginEnd="20dp"
+        android:layout_marginTop="249dp"
+        android:gravity="center"
+        android:text="931 Hancock Street Savannah Georgia 31405"
+        android:textAlignment="center"
+        android:textColor="#fff"
+        android:textSize="20dp"/>
+
+    <Button
+        android:layout_width="35dp"
+        android:layout_height="40dp"
+        android:layout_alignTop="@+id/txt1"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="57dp"
+        android:id="@+id/buttonCall"
+        android:background="@drawable/ic_phone_black_24dp" />
+
+    <TextView
+        android:id="@+id/txt2"
+
+        android:layout_width="290dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_gravity="center"
+        android:layout_marginEnd="20dp"
+        android:layout_marginTop="309dp"
+        android:gravity="center"
+        android:text="(912)228-0440"
+        android:textAlignment="center"
+        android:textColor="#fff"
+        android:textSize="20dp"/>
+
+
+    <Button
+        android:layout_width="35dp"
+        android:layout_height="40dp"
+        android:layout_alignTop="@+id/txt1"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="110dp"
+        android:id="@+id/butt"
+        android:background="@drawable/ic_email_black_24dp" />
+
+    <TextView
+        android:id="@+id/txt3"
+
+        android:layout_width="290dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_gravity="center"
+        android:layout_marginEnd="20dp"
+        android:layout_marginTop="349dp"
+        android:gravity="center"
+        android:text="info@ambassadorsheilarenee.com"
+        android:textAlignment="center"
+        android:textColor="#fff"
+        android:textSize="20dp"/>
+
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="168dp"
+        android:paddingRight="10dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:paddingLeft="10dp"
+        android:elevation="6dp"
+        android:src="@drawable/loca"
+        fab:menu_labels_ellipsize="end"
+        fab:menu_labels_singleLine="true"
+        fab:menu_fab_size="mini"
+        fab:menu_openDirection="down">
+
+
+
+
+</com.google.android.material.floatingactionbutton.FloatingActionButton>
+
+
+
+
+
+
+
+
+
+
+</RelativeLayout>

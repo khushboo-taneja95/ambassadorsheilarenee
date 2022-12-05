@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home"
+            android:title="@string/menu_home" />
+
+
+        <item android:title="Categories">
+        <menu>
+            <item android:id="@+id/faith"
+                android:title="- Faith" />
+
+            <item android:id="@+id/prayer"
+                android:title="- Prayer" />
+
+            <item android:id="@+id/education"
+                android:title="- Higher Education" />
+
+            <item android:id="@+id/community"
+                android:title="- Community ~ Awareness" />
+
+            <item android:id="@+id/financial"
+                android:title="- Financial Literacy" />
+
+            <item android:id="@+id/expand"
+                android:title="- Expand Your Business" />
+
+            <item android:id="@+id/men"
+                android:title="- Men’s Motivations" />
+
+            <item android:id="@+id/women"
+                android:title="- Women Empowerment" />
+
+            <item android:id="@+id/family"
+                android:title="- Family Enrichment" />
+
+            <item android:id="@+id/featured"
+                android:title="- Featured Business" />
+
+            <item android:id="@+id/fix"
+                android:title="- Fix and Maximise Your Credit Score" />
+
+            <item android:id="@+id/gainbuying"
+                android:title="- Gain Buying Power" />
+
+            <item android:id="@+id/ignite"
+                android:title="- Ignite Your Spiritual Wealth" />
+
+            <item android:id="@+id/buildyour"
+                android:title="- Build Your Self-worth" />
+
+            <item
+                android:id="@+id/createyourownwealth"
+                android:title="- Create Your Own Wealth" />
+
+        </menu>
+        </item>
+
+
+
+        <item
+            android:id="@+id/nav_services"
+            android:icon="@drawable/services"
+            android:title="Services" />
+        <item
+            android:id="@+id/nav_events"
+            android:icon="@drawable/events"
+            android:title="Event" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_appointment"
+                android:icon="@drawable/appoitment"
+                android:title="Appointment" />
+            <item
+                android:id="@+id/nav_contact"
+                android:icon="@drawable/call"
+                android:title="Contact Us" />
+        </menu>
+    </item>
+
+    <group
+        android:id="@+id/group_menu">
+        <item
+            android:id="@+id/visitwebsite"
+            android:title="Visit Our Website" />
+    </group>
+
+    <item android:title="Other">
+        <menu>
+            <item
+                android:id="@+id/nav_facebook"
+                android:icon="@drawable/faceee"
+                android:title="Facebook" />
+
+            <item
+                android:id="@+id/nav_instagram"
+                android:icon="@drawable/instagram"
+                android:title="Instagram" />
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ddd"
+                android:title="Share App" />
+
+        </menu>
+    </item>
+
+
+
+
+
+</menu>

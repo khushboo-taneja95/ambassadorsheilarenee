@@ -1,0 +1,224 @@
+<resources>
+    <string name="app_name">Ambassador</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="title_activity_bottom">Bottom</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="notification_error_ssl_cert_invalid">Invalide ssl</string>
+
+    <string name="prayer"> A scriptural definition, states that faith is the connecting power into the spiritual realm,
+        this power which I believe is the “Holy Spirit”, the Spirit of God that abides within us, this power links us
+        with God and makes Him a  tangible, able to be experiences through the 5 senses, a tangible reality of a person.
+    </string>
+    <string name="prayer1">
+        Hebrews 11:1-3 (NIV) states, Now faith is the confidence inn what we hope for and assurance about what we do not see.
+        2. This is what the ancients were commended for.
+        3. By Faith we understand that the universe was formed at God’s
+        command, so that what is seen was not made our of what was visible.
+</string>
+    <string name="prayer2">
+        Faith is so important that the bible tells us that without Faith, it is impossible to please God, because anyone
+        who comes to God must first believe that he exists and believe that God will reward those who earnestly seek Him.
+        (paraphrased Hebrews 11:6).</string>
+
+    <string name="education"> It is said that the purpose or the aim of education is to evolve or grow and change people into
+        productive citizens from childhood and beyond.
+    </string>
+
+    <string name="education1"> As productive citizens we are then expected to use the knowledge gained, our talents, and
+        learned skills to sustain ourselves and help others while pushing the human race forward in equality, equity, and harmony.  I still believe that education is key!
+    </string>
+
+    <string name="education2"> Hosea 4:6a (KJV) states My people are destroyed for lack of knowledge:
+    </string>
+
+    <string name="mens">
+    “Manna Nuggets”  MEN WITH MANNA- is  15 minutes of  impromptu expressions from various men of God and Ambassador Sheila
+    Renee to minister, encourage , motivate Men to pray. When Men Pray…
+</string>
+
+    <string name="featuredbusiness">
+  Featured Small Business-ENTREPRENEUR of the Week. A weekly showcase/quarterly parade of entrepreneurship.
+
+</string>
+
+    <string name="faith">
+Remember, The Choice is Your! What choice, Every Choice!
+
+</string>
+
+
+    <string name="community"> According to Tim Stafford, “The Justice Conference bible”, When Justice is done, it generally
+        begins with a community of people who first learn how to act justly and then apply the lesson outward.  Being a
+        Human Relations, Social Justice Major myself, I am an advocate for equality understanding it does not mean “the same”,
+        fairness and equal playing field and thus, I shall continue to fight for those who may not be able to verbally speak
+        for themselves and those who afraid to speak or those who do not have my boldness I shall, I will SPEAK for Social
+        Justice and equality producing  level ground.
+    </string>
+
+    <string name="community1"> Deuteronomy 32:4 (KJV) He is the Rock, his work is perfect: for all his ways are judgement:
+        a God of truth and without iniquity, just and right is he
+    </string>
+
+    <string name="symbis">You want the very best for the couple in your care and you want a system that make it
+        personal, profound and easy.SYMBIS has been an incredible tool to help couple preparefor the most
+        important decision of their life. She encourages you to ask the hard questions and
+        truly dig into being more prepared for marriage.</string>
+
+
+    <string name="financial">To be financially literate is to know how to handle your currency. This means
+        learning how to pay your bill, how to borrow and save money responsibly, and how and why to invest
+        and plan for retirement. She helps you to manage money. She gives Personal finance experts advise.
+    </string>
+
+
+    <string name="credit">
+        Our company helps to increase your credit score making you more creditworthy to make large purchases
+        or small purchases like homes, automobiles, get loans for college and other purchases. Also, we help
+        you to dispute falsely reported items in your credit report. And we also educate, so you can continue
+        to keep your credit score up and we monitor your credit report.
+    </string>
+
+
+
+    <string name="speaking">At Ambassador Sheila Renee, we think of each presentation as a three-legged stool,
+        supported by content, design, and delivery. Delivery has a vast impact on how an audience hear your message,
+        and poor delivery can leave your presentation feeling…a little off. What you say matter; how you say it
+        matter just as much. Ambassador Sheila Renee’s approach to speaker coaching drives clients towards a
+        delivery style that’s comfortable, dynamic, and empathetic. Our inside-out approach to coaching address
+        both outside behaviors and their causal causes. We’ll help you discover core strengths, develop traits
+        of the world’s most captivating speakers, and become your own unique brand of the powerful presenter.
+    </string>
+
+    <string name="teach">Ambassador Sheila Renee is a Motivational Speaker, Life Coach. She is Counseling
+        /Coaching people. she has helped many people to understand their personal and professional-strength
+        and help them to identify their week area and improve them. This is an general themed format with
+        one individual goal in mind: to move your audience. It is designed to energize the audience and
+        get them inspired toward a goal that acting a role in their position, life or both. Many time
+        organization utilize the term seminar and workshop interchangeably. In reality, seminar are
+        designed for the audience to learn through the presenter, with incomplete audience participation.
+    </string>
+
+    <string name="motivational">There are lots of motivational business speakers to pick from but Ambassador Sheila
+        Renee’s story is quite different than the rest. She knows firsthand on overcoming extreme obstacles and how
+        to turn stumbling blocks into stepping stones. She has inspired many audiences to develop their mental
+        toughness muscle as well as their courage and patience muscle. Ambassador Sheila Renee’s business keynotes
+        are based on true life experiences that have turned trials into triumphs. As an inspiring business speaker,
+        Ambassador Sheila Renee has encouraged thousands of employees to develop the mental strength to overcome
+        adversity and excuses. Her keynote speeches aim to cultivate focus, ambition, and accountability.
+    </string>
+
+    <string name="groupfac">A group facilitator is someone who helps a group of people understand their common
+        objectives and goals and assists them to plan how to achieve them; in doing so, it is key that the
+        facilitator remains “neutral” meaning he/she does not take a particular position in the discussion.
+        Sometimes the facilitator might need to step into a training role during the session to facilitate
+        discussion. In the context of group facilitation, all opinions count and the facilitator’s role is
+        to encourage all voices to be heard. Ambassador Sheila Renee has extensive experience as a group
+        facilitator with diverse audiences. Her aim is to make sure the group opens up to share information
+        in a safe and organic manner where all opinions count no matter how sensitive the subject of discussion
+        is. Examples of her work include group facilitation on Confidence building, Corporate Values, Creative
+        Brainstorming, Performance management and more.
+    </string>
+
+    <string name="pastor">Worship leaders not only help maintain the church culture, but they also help shape it.
+        Worship itself is a holy unity with God that nothing else on this earth quite equals. Yet each worship
+        service can be so dissimilar from each other depending on musical choice that the worship leader make.
+        Because the church is always change with new people coming in, and others exit, it is never in a static,
+        fixed state. If the leaders want to modify the vision of the church, the worship leaders help effect that
+        change by adjust their worship leading accordingly.
+    </string>
+
+    <string name="business">Business consultant, also recognized as management analyst, work in area that include
+        marketing, human resources, management, and accounting. Consultant help improve company by assessing
+        weakness and recommending solution. Business consultant provide management consulting to help
+        organization improve their performance and effectiveness. These professional analyze business
+        and create solution while also helping company meet their goals.
+    </string>
+
+    <string name="marketing">A marketing consultant is an outside advisory who works with companies to
+        create and implement marketing strategies. A consultant help to create a complete market plan,
+        determine a business’s marketing message, and identify the appropriate market mix to get the
+        message out to the target market. Most consultant are also involved in implement the marketing
+        strategy. They often help monitor results and tweak campaign as they go to ensure that company
+        get the best results from their marketing efforts.
+    </string>
+
+    <string name="productbrand">Great branding is about giving customers a reason to believe.In this
+        competitive marketplace connecting with customers is a priority. If you want them to care
+        about your brand you need to do two things; make an emotional connection and create a meaningful
+        experience.Our brand consultants helps companies in transforming their brand identities.
+    </string>
+
+    <string name="image">Image Consulting is the work of guide, mentoring, educating and supervision
+        people on managing their appearance-clothing, grooming, body language and etiquette to create
+        positive first impressions to get new opportunity in life and training them on soft skill to
+        perform better when these opportunity. Image Consulting is the profession of help people manage
+        their image to have a extra rewarding personal, professional, and social life. Image Consultant
+        Services for Men, Women, Organizations, Communication Assessment, Appearance Management, Styling,
+        Grooming, Personal Shopping and Wardrobe Consulting
+    </string>
+
+    <string name="BusinessNetworks">In many situations, having a strong network can bring tremendous benefits.
+        If you find yourself unemployed or simply looking to boost your career, networking might actually prove
+        to be the most effective tool in ensuring positive results. Our exceptional network speaker will teach
+        you how to build and keep strong network, but also why network is very useful for your career or
+        company success. If you boost your life or career, we give the Inspirational / Motivational speech.
+    </string>
+
+    <string name="SelfEnhancement">Speaker program are geared toward helping each student build brand new
+        confidence within him or herself so that the student can be prepared emotionally and psychologically
+        for some event that unfolds in their environment. The presentations are also designed to help students
+        heighten their awareness of the needs of other students and how their belief and confidence in themselves
+        can be transferred to others to help them with their issues and challenges. The programs aim to create
+        respect and acceptance of one’s mind, body, and spirit while honoring the same attributes in others.
+    </string>
+
+    <string name="Christian">So you’re in charge of finding entertainment for your church’s youth rally, seminar,
+        workshop, or another Christ-centered event. Don’t have the equipment for a band and want something a
+        tiny more on the serious side than a comedian? Well, then a Christian speaker is just what your event
+        wants! There are speaker out there for all age, background, and situation. Whether you want a Christian
+        speaker for a senior couples retreat or a workshop for a youth group.Ms. Sheila Renee would help you.
+    </string>
+
+    <string name="Conference">Need a top conference speaker for your subsequently corporate event, meeting,
+        or conference? Research shows that the best conference speakers can shed invaluable insight into your
+        company’s goals, pain points, and focuses. Furthermore, conference speakers are skilled at rallying up
+        each unique audience to inspire, engage, empower, and, of course, motivate your team for results such
+        as increased productivity, improved employee morale, higher sales, game-changing innovation, or more
+        effective communication.
+    </string>
+
+    <string name="GroupFacilitator">Ms. Sheila Renee has amazing energy and the ability to connect with audience
+        participants, no matter the size or venue. All small group breakouts and workshops include relevant
+        customization to align with the distinct needs of the client partner, audience size and time requirements.
+
+Inspirational Seminars for small groups subjects:
+Faith, Gods Love, Gods Justice Out of the box Spiritual Detox. God’s Original Intent and Purpose for your life.
+        The Way, The weight, and the Wait of God. Lay Aside Every Weight and Finish the RACE.THEY said I wouldn’t
+        make it, BUT, WE DID!!!
+    </string>
+
+    <string name="Personal">Personal appearance is an often overlooked part of communication and presentation skill.
+        When you are speaking in public, you may be instead of your organization or just yourself. It is still
+        you at the front. It is you that the new person, group or viewers see and before you have time to open
+        your mouth and say everything, positive assumption, both consciously and subconsciously, have been made.
+        Ms. Sheila Renee would help you with how to improve Personal appearance.
+    </string>
+
+
+
+</resources>
